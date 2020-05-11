@@ -21,13 +21,13 @@ os.system('clear')
 
 
 first_name = 'William'
-last_name = 'Santos'
+last_name = 'Alves Pinto dos Santos'
 age = 35
 fav_pizza = {
 	"John": "Pepperoni",
 	"Bob": "Mushroom",
 	"Mary": "Cheese"	
 	}
-name = True
+name = first_name + " " + last_name
 
-print (last_name)
+print (name)
