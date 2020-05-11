@@ -21,6 +21,7 @@ os.system('clear')
 
 
 first_name = 'William'
+last_name = 'Santos'
 age = 35
 fav_pizza = {
 	"John": "Pepperoni",
@@ -29,4 +30,4 @@ fav_pizza = {
 	}
 name = True
 
-print (first_name)
+print (last_name)
