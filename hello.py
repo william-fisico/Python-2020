@@ -28,6 +28,6 @@ fav_pizza = {
 	"Bob": "Mushroom",
 	"Mary": "Cheese"	
 	}
-name = "Meu nome completo: " + first_name + " " + last_name
+name = "O meu nome completo: " + first_name + " " + last_name
 
 print (name)

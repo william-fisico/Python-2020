@@ -21,7 +21,7 @@ os.system('clear')
 
 
 first_name = 'William'
-last_name = 'Santos'
+last_name = 'dos Santos'
 age = 35
 fav_pizza = {
 	"John": "Pepperoni",
